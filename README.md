@@ -15,5 +15,5 @@ Netlify
 
 ---
 
-*Note: I have developed this project ~ [1] as part of HTML & CSS Tutorial and Projects Course(Flexbox&Grid) taught by John Smilga.
+*Note: I have developed this project ~ [1] as part of HTML & CSS Tutorial and Projects Course(Flexbox&Grid) taught by John Smilga.*
 
